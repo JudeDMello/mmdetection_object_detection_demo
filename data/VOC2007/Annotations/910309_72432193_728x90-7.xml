@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>910309_72432193_728x90-7.png</filename>
+	<path>C:\Users\admell01\Desktop\Work\OptiX\data\shots\Train\910309_72432193_728x90-7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circ_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>13</ymin>
+			<xmax>661</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>908072_60231634_160x600-6.png</filename>
+	<path>C:\Users\admell01\Desktop\Work\OptiX\data\shots\Train\908072_60231634_160x600-6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rect_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>276</ymin>
+			<xmax>154</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

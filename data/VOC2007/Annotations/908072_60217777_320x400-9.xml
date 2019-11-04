@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>908072_60217777_320x400-9.png</filename>
+	<path>C:\Users\admell01\Desktop\Work\OptiX\data\shots\Test\908072_60217777_320x400-9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rect_button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>191</ymin>
+			<xmax>282</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>
